@@ -1,0 +1,4 @@
+ İşlem Basamakları 
+ 1- Visual Studi code açın uygulamalar klasörünü programda seçiniz.
+ 2- Yeni html belgesi açın adını uygulama2 yapınız.(uzantısını hmtl yapmayı unutmayın)
+ 3- U2 uygulamasını resimdeki verilen şekilde yapınız.

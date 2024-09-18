@@ -1,0 +1,10 @@
+1- Slayttı anlat
+2- Sf 32 Başlıkları anlat.
+3- Türkiye Uygulamasını yap(sf 56)(Başlık)
+4- U1 yaptır.
+5- U2 yaptır.
+6- P etiketini anlat.(Makale-Başlık Şeklinde 1. seviye Başlık Kullan)
+7- U3 yaptır.
+8- Meta etiketlerini açıkla yap.(resim) (Umut Halı da göster)
+9- U4 yap
+10- U5 Yaptır.

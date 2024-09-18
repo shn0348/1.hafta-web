@@ -1,0 +1,5 @@
+ İşlem Basamakları
+ 1- Masaüstüne Uygulamalar adında bir klasör açın 
+ 2- Visual Studi code açın uygulamar klasörünü programda seçiniz.
+ 3- Yeni html belgesi açın adını uygulama1 yapınız.(uzantısını hmtl yapmayı unutmayın)
+ 4- U1 uygulamasını resimdeki verilen şekilde yapınız.
